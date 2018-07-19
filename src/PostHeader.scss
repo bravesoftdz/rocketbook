@@ -1,0 +1,22 @@
+.post-header {
+  display: flex;
+}
+.avatar {
+  margin-right: 13px;
+  img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+  }
+}
+.container-infos {
+  align-self: center;
+}
+.name {
+  font-size: 16px;
+  color:  #666;
+}
+.date {
+  font-size: 14px;
+  color:  #999;
+}
